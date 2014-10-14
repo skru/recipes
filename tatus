@@ -1,0 +1,48 @@
+[33mcommit 1bc92e65c43898f004fe1d7d2bdbf2a791d93c55[m
+Merge: c858d06 fb69e39
+Author: skru <skruproxy@gmail.com>
+Date:   Tue Oct 14 18:28:11 2014 +0100
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit fb69e39564ab510452b1021cc4e1641c85b0126c[m
+Author: Sarah Spikes <sarah+github@udacity.com>
+Date:   Tue Oct 14 18:08:28 2014 +0100
+
+    Remove cumin from chili
+
+[33mcommit c858d064a52a79233de7fe9725bee3dbe59b1667[m
+Author: skru <skruproxy@gmail.com>
+Date:   Tue Oct 14 18:04:02 2014 +0100
+
+    add turd to spice list
+
+[33mcommit 773c448234723e48f8b16a548760e9cb800f84b0[m
+Author: skru <skruproxy@gmail.com>
+Date:   Tue Oct 14 17:55:01 2014 +0100
+
+    added turd burger recipe
+
+[33mcommit a6a2f991a1bb60e1dec7c5d68c8393b70ea6f7f6[m
+Author: Larry Madrigal <larry@udacity.com>
+Date:   Thu Sep 25 11:08:27 2014 -0700
+
+    Add a chili recipe
+
+[33mcommit b36125034401bc8c6d3984c032f400f157a32c48[m
+Author: Larry Madrigal <larry@udacity.com>
+Date:   Thu Sep 25 11:08:01 2014 -0700
+
+    Add a cake and frosting recipe
+
+[33mcommit 2050b371fa487cb82e11e3b58d19edc92a19efc8[m
+Author: Larry Madrigal <larry@udacity.com>
+Date:   Thu Sep 25 10:38:53 2014 -0700
+
+    Add content to README
+
+[33mcommit 267c56d191a37aa1f412cdb7c07721bb9a12b54f[m
+Author: Larry Madrigal <larry@udacity.com>
+Date:   Thu Sep 25 10:38:11 2014 -0700
+
+    Initial commit
